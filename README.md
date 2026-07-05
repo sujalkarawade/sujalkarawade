@@ -1,16 +1,401 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sujalkarawade/sujalkarawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ============================= -->
+<!-- SECTION 1 — ANIMATED HEADER   -->
+<!-- ============================= -->
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sujal%20Karawade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 👋 Hi, I'm Sujal Karawade
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Developer;ASP.NET+Developer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 2 — HERO SECTION      -->
+<!-- ============================= -->
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 🚀 About Me
+
+I am a passionate software developer focused on **AI, Full Stack Development, Backend Engineering**, and building practical applications that solve real-world problems. I enjoy turning complex ideas into clean, working products — from legacy enterprise systems to modern AI-integrated web apps.
+
+<br/>
+
+| | |
+|---|---|
+| 🏢 **Company** | Darsh Technosoft |
+| 💼 **Role** | Trainee System Engineer |
+| 📍 **Location** | Pune, Maharashtra, India |
+| 📧 **Email** | [your-email@example.com](mailto:your-email@example.com) |
+| 🌐 **Portfolio** | [your-portfolio-link.com](https://your-portfolio-link.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 🐙 **GitHub** | [@sujalkarawade](https://github.com/sujalkarawade) |
+
+</td>
+<td width="35%" align="center">
+
+<!-- ============================= -->
+<!-- SECTION 3 — DEV ILLUSTRATION  -->
+<!-- ============================= -->
+
+<img src="https://via.placeholder.com/300x300.png?text=Profile+Photo" width="220" style="border-radius:50%;" alt="Profile Picture"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/sujalkarawade/sujalkarawade/main/assets/coding.gif" width="260" alt="Coding animation placeholder"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 4 — TECH STACK        -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend**
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI**
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/AI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 5 — GITHUB STATS      -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujalkarawade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkarawade&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=sujalkarawade&theme=tokyonight&hide_border=true" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalkarawade&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujalkarawade&show_icons=true&count_private=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&card_width=600" width="70%" alt="Productive time / merged PRs"/>
+
+<img src="https://komarev.com/ghpvc/?username=sujalkarawade&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Visitor Counter"/>
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 6 — FEATURED PROJECTS -->
+<!-- ============================= -->
+
+## 💼 Featured Projects
+
+<table width="100%">
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://via.placeholder.com/500x260.png?text=ClientSphere" width="100%"/>
+
+### 🧠 ClientSphere — AI CRM
+AI-powered CRM with lead scoring, sentiment analysis, follow-up suggestions, an AI chat widget, and an interactive leaderboard with real-time analytics.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sujalkarawade/clientsphere)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://via.placeholder.com/500x260.png?text=HireFlow" width="100%"/>
+
+### 📄 HireFlow — AI Resume Analyzer
+Full-stack resume & job description analyzer with ATS scoring, a RAG chatbot pipeline, resume improvement suggestions, and interview question generation.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sujalkarawade/hireflow)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://via.placeholder.com/500x260.png?text=ForgeQBE" width="100%"/>
+
+### 🔍 ForgeQBE — AI Query Builder
+An AI-assisted query builder that converts natural language into structured database queries, streamlining data retrieval for non-technical users.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sujalkarawade/forgeqbe)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://via.placeholder.com/500x260.png?text=Legal+Buddy" width="100%"/>
+
+### ⚖️ Legal Buddy
+An AI-assisted legal document platform generating professional contract and agreement templates, with a modern UI overhaul for improved usability.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![docx](https://img.shields.io/badge/docx-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sujalkarawade/legal-buddy)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://via.placeholder.com/500x260.png?text=Code+Review+Chatbot" width="100%"/>
+
+### 🤖 Code Review Chatbot
+An AI chatbot that reviews source code, flags issues, and suggests improvements, helping developers ship cleaner code faster.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sujalkarawade/code-review-chatbot)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://via.placeholder.com/500x260.png?text=Portfolio+Website" width="100%"/>
+
+### 🌐 Portfolio Website
+A personal developer portfolio showcasing projects, skills, and experience with a clean, modern, recruiter-friendly design.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sujalkarawade/portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 7 — CURRENT FOCUS     -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 🌱 Current Focus
+
+</div>
+
+- 🤖 Agentic AI & Autonomous Agents
+- 🧠 Large Language Models (LLMs)
+- ☁️ Cloud Computing
+- 🏗️ System Design
+- 🧩 .NET (Advanced)
+- 🗄️ Advanced SQL
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 8 — ACHIEVEMENTS      -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=sujalkarawade&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sujalkarawade&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sujalkarawade?style=for-the-badge&color=58A6FF&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/sujalkarawade?style=for-the-badge&color=58A6FF&label=STARS)
+![Repos](https://img.shields.io/github/repos/sujalkarawade?style=for-the-badge&color=58A6FF&label=REPOSITORIES)
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 9 — DEV QUOTE         -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 💬 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 10 — SPOTIFY          -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 🎧 Now Playing
+
+<!-- Replace with your own Spotify GitHub Profile deployment link (see setup notes below) -->
+<img src="https://novatorem-sujalkarawade.vercel.app/api/spotify" width="450" alt="Spotify Now Playing placeholder"/>
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 11 — SNAKE ANIMATION  -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/sujalkarawade/sujalkarawade/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 12 — CONTRIBUTION SKYLINE -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 🏙️ Contribution Skyline
+
+<img src="https://raw.githubusercontent.com/sujalkarawade/sujalkarawade/main/assets/skyline.png" width="100%" alt="3D contribution skyline placeholder"/>
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 13 — SUPPORT ME       -->
+<!-- ============================= -->
+
+<div align="center">
+
+## ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/sujalkarawade">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 14 — CONNECT          -->
+<!-- ============================= -->
+
+<div align="center">
+
+## 🤝 Connect with Me
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ============================= -->
+<!-- SECTION 15 — FOOTER           -->
+<!-- ============================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+Made with ❤️ by **Sujal Karawade**
+
+</div>
