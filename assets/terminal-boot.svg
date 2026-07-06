@@ -1,0 +1,80 @@
+<svg width="800" height="360" viewBox="0 0 800 360" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Consolas',monospace">
+  <defs>
+    <linearGradient id="winGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- window -->
+  <rect x="0" y="0" width="800" height="360" rx="14" fill="url(#winGrad)" stroke="#30363d" stroke-width="1.5"/>
+  <!-- title bar -->
+  <rect x="0" y="0" width="800" height="36" rx="14" fill="#161b22"/>
+  <rect x="0" y="18" width="800" height="18" fill="#161b22"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="18" r="6" fill="#27c93f"/>
+  <text x="400" y="23" fill="#8b949e" font-size="13" text-anchor="middle">sujal@darsh-technosoft: ~</text>
+
+  <!-- boot lines -->
+  <g font-size="15" fill="#58a6ff" filter="url(#glow)">
+    <text x="28" y="65" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.3s" fill="freeze"/>
+      $ whoami --system-engineer
+    </text>
+    <text x="28" y="95" fill="#8b949e" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.3s" fill="freeze"/>
+      [ OK ] Loading identity module ................ sujalkarawade
+    </text>
+    <text x="28" y="120" fill="#8b949e" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.3s" fill="freeze"/>
+      [ OK ] Mounting role .......................... Trainee System Engineer @ Darsh Technosoft
+    </text>
+    <text x="28" y="145" fill="#8b949e" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.3s" fill="freeze"/>
+      [ OK ] Initializing stack ..................... ASP.NET · React · Node · Python · SQL Server
+    </text>
+    <text x="28" y="170" fill="#8b949e" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.3s" fill="freeze"/>
+      [ OK ] Starting AI subsystems ................. LLMs · RAG · Hugging Face
+    </text>
+    <text x="28" y="195" fill="#3fb950" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.3s" fill="freeze"/>
+      [DONE] System ready.
+    </text>
+  </g>
+
+  <!-- typed identity line -->
+  <g font-size="26" fill="#e6edf3" font-weight="600">
+    <text x="28" y="245" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.4s" fill="freeze"/>
+      &gt; Hi, I'm Sujal Karawade
+      <animate attributeName="opacity" values="1;0.85;1" begin="2.8s" dur="2.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- rotating role line -->
+  <g font-size="18" fill="#79c0ff" font-weight="500">
+    <text x="28" y="280">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.22;0.25;0.98;1" begin="3.4s" dur="8s" repeatCount="indefinite"/>
+      Software Engineer building things that actually ship
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="28" y="298" width="12" height="18" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- bottom accent line -->
+  <rect x="0" y="352" width="800" height="4" fill="#238636">
+    <animate attributeName="width" from="0" to="800" begin="0.2s" dur="1.2s" fill="freeze"/>
+  </rect>
+</svg>
