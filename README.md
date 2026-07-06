@@ -26,13 +26,12 @@
 <tr>
 <td width="65%" valign="top">
 
-### 🚀 About Me
+###  About Me
 
 I am a passionate software developer focused on **AI, Full Stack Development, Backend Engineering**, and building practical applications that solve real-world problems. I enjoy turning complex ideas into clean, working products — from legacy enterprise systems to modern AI-integrated web apps.
 
 <br/>
 
-| | |
 |---|---|
 | 📍 **Location** | Pune, Maharashtra, India |
 | 📧 **Email** | [sujalkarawade18@gmail.com](mailto:sujalkarawade18@gmail.com) |
@@ -135,12 +134,7 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats-sigma-six.vercel.app/api?username=sujalkarawade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats-sigma-six.vercel.app/api/top-langs/?username=sujalkarawade&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalkarawade&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<img src="https://github-readme-stats-sigma-six.vercel.app/api?username=sujalkarawade&show_icons=true&count_private=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&card_width=600" width="70%" alt="Productive time / merged PRs"/>
 
 <img src="https://komarev.com/ghpvc/?username=sujalkarawade&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Visitor Counter"/>
 
