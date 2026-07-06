@@ -35,9 +35,9 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 | | |
 |---|---|
 | 📍 **Location** | Pune, Maharashtra, India |
-| 📧 **Email** | [your-email@example.com](mailto:your-email@example.com) |
-| 🌐 **Portfolio** | [your-portfolio-link.com](https://your-portfolio-link.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 📧 **Email** | [sujalkarawade18@gmail.com](mailto:sujalkarawade18@gmail.com) |
+| 🌐 **Portfolio** | [Sujal's Portfolio](https://sujal-karawade.vercel.app/) |
+| 💼 **LinkedIn** | [Sujal's LinkedIn](https://www.linkedin.com/in/sujal-karawade/) |
 | 🐙 **GitHub** | [@sujalkarawade](https://github.com/sujalkarawade) |
 
 </td>
@@ -47,7 +47,7 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 <!-- SECTION 3 — DEV ILLUSTRATION  -->
 <!-- ============================= -->
 
-<img src="https://via.placeholder.com/300x300.png?text=Profile+Photo" width="220" style="border-radius:50%;" alt="Profile Picture"/>
+<img src="./assests/Profile%20Picture.png" width="220" style="border-radius:50%;" alt="Profile Picture"/>
 
 <br/><br/>
 
@@ -72,7 +72,7 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend**
 
@@ -80,33 +80,48 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **AI**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/AI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6C37?style=for-the-badge&logo=ai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector%20DB-6E40C9?style=for-the-badge)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Cloud**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -120,14 +135,12 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujalkarawade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkarawade&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=sujalkarawade&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats-sigma-six.vercel.app/api?username=sujalkarawade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats-sigma-six.vercel.app/api/top-langs/?username=sujalkarawade&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalkarawade&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujalkarawade&show_icons=true&count_private=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&card_width=600" width="70%" alt="Productive time / merged PRs"/>
+<img src="https://github-readme-stats-sigma-six.vercel.app/api?username=sujalkarawade&show_icons=true&count_private=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&card_width=600" width="70%" alt="Productive time / merged PRs"/>
 
 <img src="https://komarev.com/ghpvc/?username=sujalkarawade&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Visitor Counter"/>
 
@@ -146,8 +159,6 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x260.png?text=ClientSphere" width="100%"/>
-
 ### 🧠 ClientSphere — AI CRM
 AI-powered CRM with lead scoring, sentiment analysis, follow-up suggestions, an AI chat widget, and an interactive leaderboard with real-time analytics.
 
@@ -161,8 +172,6 @@ AI-powered CRM with lead scoring, sentiment analysis, follow-up suggestions, an 
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://via.placeholder.com/500x260.png?text=HireFlow" width="100%"/>
 
 ### 📄 HireFlow — AI Resume Analyzer
 Full-stack resume & job description analyzer with ATS scoring, a RAG chatbot pipeline, resume improvement suggestions, and interview question generation.
@@ -181,8 +190,6 @@ Full-stack resume & job description analyzer with ATS scoring, a RAG chatbot pip
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x260.png?text=ForgeQBE" width="100%"/>
-
 ### 🔍 ForgeQBE — AI Query Builder
 An AI-assisted query builder that converts natural language into structured database queries, streamlining data retrieval for non-technical users.
 
@@ -195,8 +202,6 @@ An AI-assisted query builder that converts natural language into structured data
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://via.placeholder.com/500x260.png?text=Legal+Buddy" width="100%"/>
 
 ### ⚖️ Legal Buddy
 An AI-assisted legal document platform generating professional contract and agreement templates, with a modern UI overhaul for improved usability.
@@ -214,8 +219,6 @@ An AI-assisted legal document platform generating professional contract and agre
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x260.png?text=Code+Review+Chatbot" width="100%"/>
-
 ### 🤖 Code Review Chatbot
 An AI chatbot that reviews source code, flags issues, and suggests improvements, helping developers ship cleaner code faster.
 
@@ -228,8 +231,6 @@ An AI chatbot that reviews source code, flags issues, and suggests improvements,
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://via.placeholder.com/500x260.png?text=Portfolio+Website" width="100%"/>
 
 ### 🌐 Portfolio Website
 A personal developer portfolio showcasing projects, skills, and experience with a clean, modern, recruiter-friendly design.
@@ -249,46 +250,6 @@ A personal developer portfolio showcasing projects, skills, and experience with 
 <br/>
 
 <!-- ============================= -->
-<!-- SECTION 7 — CURRENT FOCUS     -->
-<!-- ============================= -->
-
-<div align="center">
-
-## 🌱 Current Focus
-
-</div>
-
-- 🤖 Agentic AI & Autonomous Agents
-- 🧠 Large Language Models (LLMs)
-- ☁️ Cloud Computing
-- 🏗️ System Design
-- 🧩 .NET (Advanced)
-- 🗄️ Advanced SQL
-
-<br/>
-
-<!-- ============================= -->
-<!-- SECTION 8 — ACHIEVEMENTS      -->
-<!-- ============================= -->
-
-<div align="center">
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujalkarawade&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sujalkarawade&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sujalkarawade?style=for-the-badge&color=58A6FF&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/sujalkarawade?style=for-the-badge&color=58A6FF&label=STARS)
-![Repos](https://img.shields.io/github/repos/sujalkarawade?style=for-the-badge&color=58A6FF&label=REPOSITORIES)
-
-</div>
-
-<br/>
-
-<!-- ============================= -->
 <!-- SECTION 9 — DEV QUOTE         -->
 <!-- ============================= -->
 
@@ -297,21 +258,6 @@ A personal developer portfolio showcasing projects, skills, and experience with 
 ## 💬 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
-<!-- ============================= -->
-<!-- SECTION 10 — SPOTIFY          -->
-<!-- ============================= -->
-
-<div align="center">
-
-## 🎧 Now Playing
-
-<!-- Replace with your own Spotify GitHub Profile deployment link (see setup notes below) -->
-<img src="https://novatorem-sujalkarawade.vercel.app/api/spotify" width="450" alt="Spotify Now Playing placeholder"/>
 
 </div>
 
@@ -332,36 +278,6 @@ A personal developer portfolio showcasing projects, skills, and experience with 
 <br/>
 
 <!-- ============================= -->
-<!-- SECTION 12 — CONTRIBUTION SKYLINE -->
-<!-- ============================= -->
-
-<div align="center">
-
-## 🏙️ Contribution Skyline
-
-<img src="https://raw.githubusercontent.com/sujalkarawade/sujalkarawade/main/assets/skyline.png" width="100%" alt="3D contribution skyline placeholder"/>
-
-</div>
-
-<br/>
-
-<!-- ============================= -->
-<!-- SECTION 13 — SUPPORT ME       -->
-<!-- ============================= -->
-
-<div align="center">
-
-## ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/sujalkarawade">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ============================= -->
 <!-- SECTION 14 — CONNECT          -->
 <!-- ============================= -->
 
@@ -369,17 +285,14 @@ A personal developer portfolio showcasing projects, skills, and experience with 
 
 ## 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/sujal-karawade/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:sujalkarawade18@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://your-portfolio-link.com">
+<a href="https://sujal-karawade.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 </div>
