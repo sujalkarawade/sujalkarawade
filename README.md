@@ -32,6 +32,7 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 
 <br/>
 
+| | |
 |---|---|
 | 📍 **Location** | Pune, Maharashtra, India |
 | 📧 **Email** | [sujalkarawade18@gmail.com](mailto:sujalkarawade18@gmail.com) |
@@ -46,11 +47,11 @@ I am a passionate software developer focused on **AI, Full Stack Development, Ba
 <!-- SECTION 3 — DEV ILLUSTRATION  -->
 <!-- ============================= -->
 
-<img src="./assests/Profile%20Picture.png" width="220" style="border-radius:50%;" alt="Profile Picture"/>
+<img src="./assests/Profile%20Picture.png" width="220" style="border-radius:50%;display:block;margin-left:auto;margin-right:auto;" alt="Profile Picture"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/sujalkarawade/sujalkarawade/main/assets/coding.gif" width="260" alt="Coding animation placeholder"/>
+<img src="https://raw.githubusercontent.com/sujalkarawade/sujalkarawade/main/assets/coding.gif" width="260" alt="Coding animation placeholder" style="display:block;margin-left:auto;margin-right:auto;"/>
 
 </td>
 </tr>
